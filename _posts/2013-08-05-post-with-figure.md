@@ -4,6 +4,7 @@ title: "Post with Figure"
 description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]
+comments: true
 ---
 
 This is a post that uses a `figure`. It stacks these images and places a nice little caption below if you fill out `figcaption`.
