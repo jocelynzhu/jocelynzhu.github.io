@@ -1,20 +1,20 @@
-title:            Balzac
+title:            Jocelyn
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://www.jocelynzhu.tk
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Jocelyn Zhu
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
+  email:          jocelynzhu@live.com
   twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  github:         jocelynzhu       
+  instagram:           
+  dribbble:       
+  disqus:         jocelynzhu
   # Plug in your disqus shortname!
   
 
@@ -24,7 +24,7 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/jocelynzhu/jocelynzhu.github.io
     external: true
   - title: Cole Who?
     url: http://coletownsend.com
