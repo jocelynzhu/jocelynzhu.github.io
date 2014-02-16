@@ -26,8 +26,36 @@
 
         {{ content }}
 
+      {{ if site.owner.twitter }}
+
       <a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      
+      {{ elsif site.owner.weiboname }}
+
+        {{ if page.image.feature }}
+
+        <a class="share" href="http://service.weibo.com/share/share.php?url={{ site.url}}{{ page.url }}&appkey=&title=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.weiboname }}&pic={{ site.url }}/images/{{ page.image.feature }}&ralateUid=&language=zh_cn">Share</a>      
+
+        {{ else }}
+
+        <a class="share" href="http://service.weibo.com/share/share.php?url={{ site.url}}{{ page.url }}&appkey=&title=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.weiboname }}&pic=&ralateUid=&language=zh_cn">Share</a>
+
+        {{ endif }}
+
+      {{ elsif site.owner.weibonumber }}
+
+        {{ if page.image.feature }}
+
+        <a class="share" href="http://service.weibo.com/share/share.php?url={{ site.url}}{{ page.url }}&appkey=&title=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.name }}&pic={{ site.url }}/images/{{ page.image.feature }}&ralateUid=&language=zh_cn">Share</a>      
+
+        {{ else }}
+
+        <a class="share" href="http://service.weibo.com/share/share.php?url={{ site.url}}{{ page.url }}&appkey=&title=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.name }}&pic=&ralateUid=&language=zh_cn">Share</a>
+
+        {{ endif }}
+
+      {{ endif }}
 
       {% if page.comments %}
       <aside class="disqus">
