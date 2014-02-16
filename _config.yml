@@ -1,6 +1,6 @@
 title:            Jocelyn
-tagline:          A beautiful theme.
-description:      Describe your website.
+tagline:          A beautiful girl.
+description:      A personal site.
 #Comment out url when working locally to resolve base urls correctly
 url: http://www.jocelynzhu.tk
 
@@ -8,13 +8,14 @@ url: http://www.jocelynzhu.tk
 owner:
   name:           Jocelyn Zhu
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            "Pretty and Professional"
   email:          jocelynzhu@live.com
-  twitter:        twnsndco        
-  github:         jocelynzhu       
-  instagram:           
+  twitter:                
+  github:         jocelynzhu
+  instagram:      
   dribbble:       
   disqus:         jocelynzhu
+  weibo:          u/1723564844
   # Plug in your disqus shortname!
   
 
@@ -26,12 +27,12 @@ links:
   - title: Github
     url: https://github.com/jocelynzhu/jocelynzhu.github.io
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Qu Xiaofeng
+    url: http://quxiaofeng.me
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Hong_Kong
 future:      true
 pygments:    true
 markdown:    kramdown
