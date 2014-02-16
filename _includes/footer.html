@@ -25,8 +25,10 @@
             {% endif %}
 
 
-            {% if site.owner.weibo %}
-            <li><a id="drib" href="http://weibo.com/{{ site.owner.weibo }}" target="_blank"><span class="foot-link">@{{ site.owner.weibo }}</span></a></li>
+            {% if site.owner.weiboname %}
+            <li><a id="drib" href="http://weibo.com/{{ site.owner.weiboname }}" target="_blank"><span class="foot-link">@{{ site.owner.weiboname }}</span></a></li>
+            {% elsif site.owner.weibonumber %}
+            <li><a id="drib" href="http://weibo.com/{{ site.owner.weibonumber }}" target="_blank"><span class="foot-link">@{{ site.owner.name }}</span></a></li>
             {% endif %}
         </ul>
     </div>
