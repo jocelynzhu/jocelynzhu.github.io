@@ -2,7 +2,7 @@ title:            Jocelyn
 tagline:          A beautiful girl.
 description:      A personal site.
 #Comment out url when working locally to resolve base urls correctly
-url: http://www.jocelynzhu.tk
+url:              http://www.jocelynzhu.tk
 
 # Owner/author information
 owner:
@@ -25,15 +25,6 @@ owner:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/jocelynzhu/jocelynzhu.github.io
-    external: true
-  - title: Gavin Qu
-    url: http://www.gavinqu.tk
-    external: true
-  - title: Xiaofeng Qu
-    url: http://quxiaofeng.me
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Hong_Kong
