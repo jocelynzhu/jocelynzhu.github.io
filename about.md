@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About Me
+title: About Jocelyn ZHU
 description: Jocelyn Zhu was a certified PMP, and two kids' mom.
 tags: [about, resume, pmp, career]
 image:
-  feature: jocelynholdinggavinkid.jpg
+    feature: jocelynholdinggavinkid.jpg
 ---
 
 ## Education
