@@ -23,5 +23,5 @@ image:
 
 <figure>
 	<img src="/images/fatherandson.jpg">
-	<figcaption>A father is holding his son in a cute outfit.</figcaption>
+	<figcaption>The father holding our son, who is in a cute outfit.</figcaption>
 </figure>
