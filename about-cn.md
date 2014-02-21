@@ -19,7 +19,7 @@ image:
 
 ## 家人
 
-### [曲晓峰](http://www.quxiaofeng.com) and [曲简文](http://www.gavinqu.tk) ###
+### [曲晓峰](http://www.quxiaofeng.me) and [曲简文](http://www.gavinqu.tk) ###
 
 <figure>
 	<img src="/images/fatherandson.jpg">

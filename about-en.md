@@ -19,7 +19,7 @@ image:
 
 ## Famlily
 
-### [Xiaofeng Qu](http://www.quxiaofeng.com) and [Gavin Qu](http://www.gavinqu.tk) ###
+### [Xiaofeng Qu](http://www.quxiaofeng.me) and [Gavin Qu](http://www.gavinqu.tk) ###
 
 <figure>
 	<img src="/images/fatherandson.jpg">
