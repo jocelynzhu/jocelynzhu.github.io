@@ -2,19 +2,19 @@
 layout: post
 permalink: /about-cn/index.html
 title: "关于 朱小丹"
-description: 朱小丹是一个PMP，两个可爱孩子的母亲，妻子和女儿。
+description: 朱小丹是一个PMI认证的项目经理（PMP），两个可爱孩子的母亲，妻子和女儿。
 tags: [简历, 简介, 家]
 image:
     feature: jocelynholdinggavinkid.jpg
 ---
 
-## 教育
-* TODO
-
-## 工作
-* TODO
-
 ## 项目
+* TODO
+
+## 工作经历
+* TODO
+
+## 教育背景
 * TODO
 
 ## 家人
