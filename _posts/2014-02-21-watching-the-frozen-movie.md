@@ -50,12 +50,12 @@ comments: true
 </figure>
 
 <figure>
-	<img src="/images/frozen-olaf-01.jpg">
+	<img src="/images/frozen-olaf-03.jpg">
 	<figcaption>小雪人 Olaf 的夏天幻想：海边</figcaption>
 </figure>
 
 <figure>
-	<img src="/images/frozen-olaf-01.jpg">
+	<img src="/images/frozen-olaf-04.jpg">
 	<figcaption>小雪人 Olaf 的夏天幻想：大草原</figcaption>
 </figure>
 
