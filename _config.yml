@@ -24,7 +24,9 @@ owner:
 # For external links add external: true
 links:
   - title: About
-    url: /about
+    url: /about-en
+  - title: 关于朱小丹
+    url: /about-cn
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Hong_Kong
