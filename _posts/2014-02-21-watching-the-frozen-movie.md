@@ -61,6 +61,12 @@ comments: true
 
 ## 优美动听的音乐 ##
 
++ Elsa 的 **Let It Go** 非常有感觉
+
+<figure>
+	<img src="/images/frozen-elsa-letitgo.jpg">
+</figure>
+
 
 
 ## 彩蛋 ##
