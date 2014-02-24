@@ -28,7 +28,7 @@ comments: true
 	<figcaption>Elsa 和 Anna 一起看书</figcaption>
 </figure>
 
-## 曲折有趣的剧情。
+## 曲折有趣的剧情
 
 凶恶的冰雪怪兽叫棉花糖
 
@@ -59,11 +59,11 @@ comments: true
 	<figcaption>小雪人 Olaf 的夏天幻想：大草原</figcaption>
 </figure>
 
-## 优美动听的音乐。
+## 优美动听的音乐 ##
 
 
 
-### 彩蛋 ###
+## 彩蛋 ##
 
 <figure>
 	<img src="/images/frozen-easter-egg.jpg">
