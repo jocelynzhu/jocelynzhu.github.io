@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "吃书贼"
-description: "Seven一拿起书啃，Gavin就立即上前制止..."
+description: 
 category: articles
 tags: [生活, Gavin, Seven, 阅读, 微博]
 image:
