@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "吃书贼"
-description: "Seven一拿起书啃，Gavin就立即上前制止...
+description: "Seven一拿起书啃，Gavin就立即上前制止..."
 category: articles
-tags: [life, Gavin, Seven, reading]
+tags: [生活, Gavin, Seven, 阅读, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
