@@ -11,6 +11,7 @@ share: true
 
 ### Seven陪哥哥去看海上书展。[爱你] ###
 
-![](http://i.imgur.com/cOJ2W3R.jpg)
-
-![](http://i.imgur.com/zNAzHU2.jpg)
+<figure class="half">
+	<img src="http://i.imgur.com/cOJ2W3R.jpg" alt="">
+	<img src="http://i.imgur.com/zNAzHU2.jpg" alt="">
+</figure>
