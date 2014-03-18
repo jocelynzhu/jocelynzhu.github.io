@@ -15,6 +15,7 @@ share: true
 
 ![](http://i.imgur.com/w06Qr82.jpg)
 
+<figure class="half">
 ![](http://i.imgur.com/XlP2V5u.jpg)
-
 ![](http://i.imgur.com/9d35nJO.jpg)
+</figure>
