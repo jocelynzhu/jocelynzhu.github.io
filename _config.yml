@@ -36,7 +36,7 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: 关于朱小丹
+  - title: 关于
     url: /about-cn
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
