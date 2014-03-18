@@ -7,6 +7,7 @@ tags: [生活, Seven, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### Seven陪哥哥去看海上书展。[爱你] ###

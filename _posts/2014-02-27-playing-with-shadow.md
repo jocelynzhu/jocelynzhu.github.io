@@ -7,6 +7,7 @@ tags: [生活, Gavin, 游戏, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### 和这个大影子玩了老半天。[哈哈] ###

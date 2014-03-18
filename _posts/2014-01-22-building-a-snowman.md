@@ -7,6 +7,7 @@ tags: [生活, Gavin, 游戏, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### Gavin和妈妈一起堆了一个＂雪人小王子＂和一个＂马桶雪人叔叔＂。今年冬天没有遗憾了。[耶] ###

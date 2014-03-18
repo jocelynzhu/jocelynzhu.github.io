@@ -7,6 +7,7 @@ tags: [生活, Gavin, 阅读, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### ＂望道号＂海上书展，Gavin一上船就自己选书坐地上看起来。咖啡厅还专门有一小块区域给小朋友玩玩具、写写画画，非常适合带孩子来感受，离开时还看到骑独轮车的人[嘻嘻]。 ###

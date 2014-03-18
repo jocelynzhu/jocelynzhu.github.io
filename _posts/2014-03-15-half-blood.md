@@ -7,6 +7,7 @@ tags: [生活, Gavin, 吃饭, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### 一半天使一半恶魔 ###

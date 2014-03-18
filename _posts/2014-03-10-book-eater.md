@@ -7,6 +7,7 @@ tags: [生活, Gavin, Seven, 阅读, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 

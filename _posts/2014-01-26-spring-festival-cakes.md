@@ -7,6 +7,7 @@ tags: [生活, Gavin, 姥姥, 节日, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### 姥姥刚带的圣虫就被Gavin咬了一口，然后自己又把大家集合起来围个大圆圈。 ###

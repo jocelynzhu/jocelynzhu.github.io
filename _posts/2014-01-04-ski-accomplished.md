@@ -7,6 +7,7 @@ tags: [生活, Gavin, 游戏, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### 滑冰的心愿达成了，还跟Gavin一起坐上马爬犁。冻冰的湖面上除了滑冰活动还真不少，钓鱼、放风筝、打陀螺...[@Eli](http://quxiaofeng.me) 下次要不要加入一起？ ###

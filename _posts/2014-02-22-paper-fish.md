@@ -7,6 +7,7 @@ tags: [生活, Gavin, 手工, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true
+share: true
 ---
 
 ### 用报纸做＂大鱼吃小鱼＂和＂章鱼＂ ###
