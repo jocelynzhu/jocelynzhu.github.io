@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about-cn/index.html
-title: "关于 朱小丹"
-description: 朱小丹是一个PMI认证的项目经理（PMP），两个可爱孩子的母亲，妻子和女儿。
+title: "关于"
+description: Jocelyn 是一个 PMI 认证的项目经理（PMP），两个可爱孩子的母亲，妻子和女儿。
 tags: [简历, 简介, 家]
 image:
     feature: jocelynholdinggavinkid.jpg
