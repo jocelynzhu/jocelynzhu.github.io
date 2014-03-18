@@ -11,14 +11,21 @@ image:
 share: true
 ---
 
-## Education
-* TODO
+## Projects Supervised
+
+* LATER
 
 ## Work Experince
-* TODO
 
-## Projects Supervised
-* TODO
+* LATER
+
+## Education
+
++ **M.S.E. Control Theory and Control Engineering**, July 2008
+Northesast University, Shenyang, Liaoning, China
+
++ **B.S.E. Electrical Information Engineering Major, Computer Science Minor**, July 2005
+Shenyang University of Technology, Shenyang, Liaoning, China
 
 ## Famlily
 
