@@ -2,7 +2,6 @@
 layout: post
 title: "闹觉"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, 睡觉, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

@@ -2,7 +2,6 @@
 layout: post
 title: "小棉袄"
 description: 
-category: articles
 tags: [生活, Gavin, 服装, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

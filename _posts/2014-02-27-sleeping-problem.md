@@ -2,7 +2,6 @@
 layout: post
 title: "哄睡难题"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

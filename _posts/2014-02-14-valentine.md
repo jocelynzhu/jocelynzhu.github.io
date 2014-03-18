@@ -2,7 +2,6 @@
 layout: post
 title: "情人节"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, Eli, 节日, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

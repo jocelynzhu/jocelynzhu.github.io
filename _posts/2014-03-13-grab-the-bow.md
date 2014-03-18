@@ -2,7 +2,6 @@
 layout: post
 title: "抓饭碗"
 description: 
-category: articles
 tags: [生活, Seven, 吃饭, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

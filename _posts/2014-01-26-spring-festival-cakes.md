@@ -2,7 +2,6 @@
 layout: post
 title: "圣虫"
 description: 
-category: articles
 tags: [生活, Gavin, 姥姥, 节日, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

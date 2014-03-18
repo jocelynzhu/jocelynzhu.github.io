@@ -2,7 +2,6 @@
 layout: post
 title: "真棒"
 description: 
-category: articles
 tags: [生活, Gavin, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

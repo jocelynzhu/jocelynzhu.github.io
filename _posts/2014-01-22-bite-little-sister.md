@@ -2,7 +2,6 @@
 layout: post
 title: "咬BB"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

@@ -2,7 +2,6 @@
 layout: post
 title: "海上书展"
 description: 
-category: articles
 tags: [生活, Gavin, 阅读, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

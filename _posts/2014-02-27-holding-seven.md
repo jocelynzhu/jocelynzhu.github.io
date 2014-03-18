@@ -2,7 +2,6 @@
 layout: post
 title: "妈宝Seven"
 description: 
-category: articles
 tags: [生活, Seven, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

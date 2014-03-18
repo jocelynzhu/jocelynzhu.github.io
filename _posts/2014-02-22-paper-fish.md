@@ -2,7 +2,6 @@
 layout: post
 title: "报纸鱼"
 description: 
-category: articles
 tags: [生活, Gavin, 手工, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

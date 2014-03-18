@@ -2,7 +2,6 @@
 layout: post
 title: "影子"
 description: 
-category: articles
 tags: [生活, Gavin, 游戏, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

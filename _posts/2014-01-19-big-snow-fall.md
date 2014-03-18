@@ -2,7 +2,6 @@
 layout: post
 title: "大雪"
 description: 
-category: articles
 tags: [生活, Gavin, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

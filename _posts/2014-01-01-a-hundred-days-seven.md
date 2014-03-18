@@ -2,7 +2,6 @@
 layout: post
 title: "Seven百天"
 description: 
-category: articles
 tags: [生活, Seven, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

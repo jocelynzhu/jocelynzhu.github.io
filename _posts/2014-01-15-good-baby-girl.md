@@ -2,7 +2,6 @@
 layout: post
 title: "乖乖女"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, 睡觉, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

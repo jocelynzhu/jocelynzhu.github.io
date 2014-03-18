@@ -2,7 +2,6 @@
 layout: post
 title: "剥鸡蛋"
 description: 
-category: articles
 tags: [生活, Gavin, Seven, 吃饭, 成长, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg

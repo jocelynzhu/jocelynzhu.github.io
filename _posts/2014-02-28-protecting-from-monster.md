@@ -2,7 +2,6 @@
 layout: post
 title: "妈妈挡住怪兽"
 description: 
-category: articles
 tags: [生活, Gavin, 画画, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
