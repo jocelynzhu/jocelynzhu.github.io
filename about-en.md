@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about-en/index.html
+permalink: /about/index.html
 title: About Jocelyn ZHU
 description: Jocelyn Zhu was a certified PMP, and two kids' mom.
 tags: [about, resume, pmp, career]

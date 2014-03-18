@@ -35,7 +35,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about-en
+    url: /about
   - title: 关于朱小丹
     url: /about-cn
 
