@@ -34,3 +34,6 @@
 ~*
 *.tmp
 *.swp
+_site
+codekit-config.json
+node_modules

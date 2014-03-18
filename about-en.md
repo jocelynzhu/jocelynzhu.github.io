@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: page
 permalink: /about-en/index.html
 title: About Jocelyn ZHU
 description: Jocelyn Zhu was a certified PMP, and two kids' mom.
 tags: [about, resume, pmp, career]
 image:
     feature: jocelynholdinggavinkid.jpg
+    credit: Eli
+    creditlink: http://www.quxiaofeng.me
+share: true
 ---
 
 ## Education
@@ -19,7 +22,7 @@ image:
 
 ## Famlily
 
-### [Xiaofeng Qu](http://www.quxiaofeng.me) and [Gavin Qu](http://www.gavinqu.tk) ###
+### [Eli](http://www.quxiaofeng.me) and [Gavin](http://www.gavinqu.tk) ###
 
 <figure>
 	<img src="/images/fatherandson.jpg">
