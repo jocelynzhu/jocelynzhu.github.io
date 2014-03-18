@@ -22,10 +22,10 @@ share: true
 ## Education
 
 + **M.S.E. Control Theory and Control Engineering**, July 2008 <br />
-Northeastern University, Shenyang, Liaoning, China
+[Northeastern University](http://english.neu.edu.cn/), Shenyang, Liaoning, China
 
 + **B.S.E. Electrical Information Engineering Major, Computer Science Minor**, July 2005 <br />
-Shenyang University of Technology, Shenyang, Liaoning, China
+[Shenyang University of Technology](http://english.sut.edu.cn/index.do), Shenyang, Liaoning, China
 
 ## Famlily
 
