@@ -19,10 +19,13 @@ share: true
 	<img src="http://i.imgur.com/mCiVBjg.jpg" alt="">
 </figure>
 
-<figure class="third">
+<figure class="half">
 	<img src="http://i.imgur.com/6tmdD8i.jpg" alt="">
 	<img src="http://i.imgur.com/XdfdkKJ.jpg" alt="">
-	<img src="http://i.imgur.com/jpCP0IV.jpg" alt="">
 </figure>
 
-![](http://i.imgur.com/pYpRfce.jpg)
+<figure class="half">
+	<img src="http://i.imgur.com/jpCP0IV.jpg" alt="">
+	<img src="http://i.imgur.com/pYpRfce.jpg" alt="">
+</figure>
+
