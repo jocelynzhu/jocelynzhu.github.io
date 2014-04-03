@@ -11,6 +11,7 @@ share: true
 
 ### 又来一件小棉袄！ ###
 
-![](http://i.imgur.com/qR5acqo.jpg)
-
-![](http://i.imgur.com/zeNyB3n.jpg)
+<figure class="half">
+    <img src="http://i.imgur.com/qR5acqo.jpg">
+    <img src="http://i.imgur.com/zeNyB3n.jpg">
+</figure>
