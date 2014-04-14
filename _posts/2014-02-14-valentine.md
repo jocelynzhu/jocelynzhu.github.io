@@ -11,4 +11,9 @@ share: true
 
 ### 时间你慢慢走，我能同时抱起两个的时间没有很长。结婚六年，能和你[Eli](http://quxiaofeng.me) 一起真好！感恩〜 〜 ###
 
-![](http://i.imgur.com/iLoJDen.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/iLoJDen.jpg">
+  <img src="http://i.imgur.com/iLoJDen.jpg">
+  </a>
+</figure>

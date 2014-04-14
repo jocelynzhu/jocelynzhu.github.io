@@ -2,7 +2,7 @@
 layout: post
 title: "爱你"
 description: 
-tags: [Gavin, Seven, 微博]
+tags: [生活, 成长, Gavin, Seven, 微博]
 image:
   feature: jocelynholdinggavinkid.jpg
 comments: true

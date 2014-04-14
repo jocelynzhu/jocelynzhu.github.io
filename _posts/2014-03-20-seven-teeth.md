@@ -11,4 +11,9 @@ share: true
 
 ### Seven的牙尖露出来了[音乐] ###
 
-![](http://i.imgur.com/dqooGgJ.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/dqooGgJ.jpg">
+  <img src="http://i.imgur.com/dqooGgJ.jpg">
+  </a>
+</figure>

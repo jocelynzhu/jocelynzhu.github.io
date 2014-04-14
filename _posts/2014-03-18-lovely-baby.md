@@ -11,4 +11,9 @@ share: true
 
 ### 小BB就是这样让人爱上的[爱你] ###
 
-![](http://i.imgur.com/ef5g7ML.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/ef5g7ML.jpg">
+  <img src="http://i.imgur.com/ef5g7ML.jpg">
+  </a>
+</figure>

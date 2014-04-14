@@ -11,4 +11,9 @@ share: true
 
 ### Gavin一听要给妹妹吃鸡蛋黄，赶紧给妹妹剥一个，把蛋清吃掉，再把妹妹剩下的大半个蛋黄也吃掉。Seven小米粥水拌蛋黄吃的津津有味超级享受，吃完没再就给急哭了。 ###
 
-![](http://i.imgur.com/HuYIVfp.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/HuYIVfp.jpg">
+  <img src="http://i.imgur.com/HuYIVfp.jpg">
+  </a>
+</figure>

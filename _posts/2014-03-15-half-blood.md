@@ -11,4 +11,9 @@ share: true
 
 ### 一半天使一半恶魔 ###
 
-![](http://i.imgur.com/8FIIv6f.jpg)
+<figure>
+  <a href="http://i.imgur.com/8FIIv6f.jpg">
+  <img src="http://i.imgur.com/8FIIv6f.jpg">
+  </a>
+</figure>
+

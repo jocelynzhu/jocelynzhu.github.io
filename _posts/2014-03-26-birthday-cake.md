@@ -11,5 +11,10 @@ share: true
 
 ### ＂我想吃蛋糕了。吃蛋糕吧！＂Gavin急的呀。 ###
 
-![](http://i.imgur.com/DB3YFZV.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/DB3YFZV.jpg">
+  <img src="http://i.imgur.com/DB3YFZV.jpg">
+  </a>
+</figure>
 

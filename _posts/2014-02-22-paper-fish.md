@@ -11,7 +11,11 @@ share: true
 
 ### 用报纸做＂大鱼吃小鱼＂和＂章鱼＂ ###
 
-
-![](http://i.imgur.com/EWPmE9J.jpg)
-
-![](http://i.imgur.com/z7sdfcZ.jpg)
+<figure class="half">
+  <a href="http://i.imgur.com/EWPmE9J.jpg">
+  <img src="http://i.imgur.com/EWPmE9J.jpg">
+  </a>
+  <a href="http://i.imgur.com/z7sdfcZ.jpg">
+  <img src="http://i.imgur.com/z7sdfcZ.jpg">
+  </a>
+</figure>

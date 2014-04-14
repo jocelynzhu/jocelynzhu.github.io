@@ -11,5 +11,10 @@ share: true
 
 ### 和这个大影子玩了老半天。[哈哈] ###
 
-![](http://i.imgur.com/U0Nr2Au.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/U0Nr2Au.jpg">
+  <img src="http://i.imgur.com/U0Nr2Au.jpg">
+  </a>
+</figure>
 

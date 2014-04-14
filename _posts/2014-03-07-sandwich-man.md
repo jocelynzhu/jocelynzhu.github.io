@@ -11,4 +11,9 @@ share: true
 
 ### 早晨做的＂三明治的银＂，Gavin都不舍得吃。 ###
 
-![](http://i.imgur.com/upab9pu.jpg)
+
+<figure>
+  <a href="http://i.imgur.com/upab9pu.jpg">
+  <img src="http://i.imgur.com/upab9pu.jpg">
+  </a>
+</figure>
