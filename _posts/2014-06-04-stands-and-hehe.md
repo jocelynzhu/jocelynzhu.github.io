@@ -16,5 +16,3 @@ share: true
   <img src="{{ site.url }}/images/2014-06-04.jpg">
   </a>
 </figure>
-
-[![]({{ site.url }}/images/2014-06-04.jpg)]({{ site.url }}/images/2014-06-04.jpg)
