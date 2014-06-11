@@ -12,13 +12,13 @@ share: true
 ### #亲子共读21天#第三期第2天，刚拿到≪青蛙弗洛格的成长故事≫，儿子先自己认真翻看起来。@当当孕婴童天地 ###
 
 <figure>
-  <a href="http://i.imgur.com/3yOOhD1.jpg">
-  <img src="http://i.imgur.com/3yOOhD1.jpg">
+  <a href="{{ site.url }}/images/2014-04-30a.jpg">
+  <img src="{{ site.url }}/images/2014-04-30a.jpg">
   </a>
-  <a href="http://i.imgur.com/Zr5IBSb.jpg">
-  <img src="http://i.imgur.com/Zr5IBSb.jpg">
+  <a href="{{ site.url }}/images/2014-04-30b.jpg">
+  <img src="{{ site.url }}/images/2014-04-30b.jpg">
   </a>
-  <a href="http://i.imgur.com/DvZ2F7P.jpg">
-  <img src="http://i.imgur.com/DvZ2F7P.jpg">
+  <a href="{{ site.url }}/images/2014-04-30c.jpg">
+  <img src="{{ site.url }}/images/2014-04-30c.jpg">
   </a>
 </figure>
