@@ -12,22 +12,19 @@ share: true
 ### 从湾仔轮渡到尖沙咀，帮儿子用照片纪录下一路上的风景，好奇他眼里看到了什么呢？ ###
 
 <figure>
-  <a href="http://i.imgur.com/cATHfAQ.jpg">
-  <img src="http://i.imgur.com/cATHfAQ.jpg">
+  <a  href="{{ site.url }}/images/2014-04-24a.jpg">
+  <img src="{{ site.url }}/images/2014-04-24a.jpg">
   </a>
-</figure>
-
-<figure>
-  <a href="http://i.imgur.com/NAZ7teU.jpg">
-  <img src="http://i.imgur.com/NAZ7teU.jpg">
+  <a  href="{{ site.url }}/images/2014-04-24b.jpg">
+  <img src="{{ site.url }}/images/2014-04-24b.jpg">
   </a>
 </figure>
 
 <figure class="half">
-  <a href="http://i.imgur.com/Ucay2v9.jpg">
-  <img src="http://i.imgur.com/Ucay2v9.jpg">
+  <a  href="{{ site.url }}/images/2014-04-24c.jpg">
+  <img src="{{ site.url }}/images/2014-04-24c.jpg">
   </a>
-  <a href="http://i.imgur.com/J9VxjIf.jpg">
-  <img src="http://i.imgur.com/J9VxjIf.jpg">
+  <a  href="{{ site.url }}/images/2014-04-24d.jpg">
+  <img src="{{ site.url }}/images/2014-04-24d.jpg">
   </a>
 </figure>
