@@ -44,16 +44,22 @@ share: true
 
 ### 给没读过≪米莉的帽子变变变≫这本书的朋友附上书里的原图，跟树叶花朵制作的米莉的帽子是对应的。[偷笑] ###
 
-<figure class="third">
+<figure class="half">
   <a href="http://i.imgur.com/J5IkmR6.jpg">
   <img src="http://i.imgur.com/J5IkmR6.jpg">
   </a>
   <a href="http://i.imgur.com/Iz1YcAm.jpg">
   <img src="http://i.imgur.com/Iz1YcAm.jpg">
   </a>
+</figure>
+
+<figure>
   <a href="http://i.imgur.com/j54eAGM.jpg">
   <img src="http://i.imgur.com/j54eAGM.jpg">
   </a>
+</figure>
+
+<figure class="third">
   <a href="http://i.imgur.com/xPzUmU4.jpg">
   <img src="http://i.imgur.com/xPzUmU4.jpg">
   </a>
