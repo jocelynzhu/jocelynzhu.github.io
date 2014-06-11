@@ -13,69 +13,69 @@ share: true
 
 
 <figure class="third">
-  <a href="http://i.imgur.com/GRrseYt.jpg">
-  <img src="http://i.imgur.com/GRrseYt.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20a.jpg">
+  <img src="{{ site.url }}/images/2014-04-20a.jpg">
   </a>
-  <a href="http://i.imgur.com/jxvAF48.jpg">
-  <img src="http://i.imgur.com/jxvAF48.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20b.jpg">
+  <img src="{{ site.url }}/images/2014-04-20b.jpg">
   </a>
-  <a href="http://i.imgur.com/qd5kefs.jpg">
-  <img src="http://i.imgur.com/qd5kefs.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20c.jpg">
+  <img src="{{ site.url }}/images/2014-04-20c.jpg">
   </a>
-  <a href="http://i.imgur.com/70FHAv6.jpg">
-  <img src="http://i.imgur.com/70FHAv6.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20d.jpg">
+  <img src="{{ site.url }}/images/2014-04-20d.jpg">
   </a>
-  <a href="http://i.imgur.com/bnzgbfi.jpg">
-  <img src="http://i.imgur.com/bnzgbfi.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20e.jpg">
+  <img src="{{ site.url }}/images/2014-04-20e.jpg">
   </a>
-  <a href="http://i.imgur.com/xZ0F2TC.jpg">
-  <img src="http://i.imgur.com/xZ0F2TC.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20f.jpg">
+  <img src="{{ site.url }}/images/2014-04-20f.jpg">
   </a>
-  <a href="http://i.imgur.com/3XXKw46.jpg">
-  <img src="http://i.imgur.com/3XXKw46.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20g.jpg">
+  <img src="{{ site.url }}/images/2014-04-20g.jpg">
   </a>
-  <a href="http://i.imgur.com/QKw7Mmd.jpg">
-  <img src="http://i.imgur.com/QKw7Mmd.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20h.jpg">
+  <img src="{{ site.url }}/images/2014-04-20h.jpg">
   </a>
-  <a href="http://i.imgur.com/tKIlyhM.jpg">
-  <img src="http://i.imgur.com/tKIlyhM.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20i.jpg">
+  <img src="{{ site.url }}/images/2014-04-20i.jpg">
   </a>
 </figure>
 
 ### 给没读过≪米莉的帽子变变变≫这本书的朋友附上书里的原图，跟树叶花朵制作的米莉的帽子是对应的。[偷笑] ###
 
 <figure class="half">
-  <a href="http://i.imgur.com/J5IkmR6.jpg">
-  <img src="http://i.imgur.com/J5IkmR6.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20j.jpg">
+  <img src="{{ site.url }}/images/2014-04-20j.jpg">
   </a>
-  <a href="http://i.imgur.com/Iz1YcAm.jpg">
-  <img src="http://i.imgur.com/Iz1YcAm.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20k.jpg">
+  <img src="{{ site.url }}/images/2014-04-20k.jpg">
   </a>
 </figure>
 
 <figure>
-  <a href="http://i.imgur.com/j54eAGM.jpg">
-  <img src="http://i.imgur.com/j54eAGM.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20l.jpg">
+  <img src="{{ site.url }}/images/2014-04-20l.jpg">
   </a>
 </figure>
 
 <figure class="third">
-  <a href="http://i.imgur.com/xPzUmU4.jpg">
-  <img src="http://i.imgur.com/xPzUmU4.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20m.jpg">
+  <img src="{{ site.url }}/images/2014-04-20m.jpg">
   </a>
-  <a href="http://i.imgur.com/cCz455p.jpg">
-  <img src="http://i.imgur.com/cCz455p.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20n.jpg">
+  <img src="{{ site.url }}/images/2014-04-20n.jpg">
   </a>
-  <a href="http://i.imgur.com/k3JqrDe.jpg">
-  <img src="http://i.imgur.com/k3JqrDe.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20o.jpg">
+  <img src="{{ site.url }}/images/2014-04-20o.jpg">
   </a>
-  <a href="http://i.imgur.com/xdScbsy.jpg">
-  <img src="http://i.imgur.com/xdScbsy.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20p.jpg">
+  <img src="{{ site.url }}/images/2014-04-20p.jpg">
   </a>
-  <a href="http://i.imgur.com/NKfkL2o.jpg">
-  <img src="http://i.imgur.com/NKfkL2o.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20q.jpg">
+  <img src="{{ site.url }}/images/2014-04-20q.jpg">
   </a>
-  <a href="http://i.imgur.com/Z2dB3Py.jpg">
-  <img src="http://i.imgur.com/Z2dB3Py.jpg">
+  <a  href="{{ site.url }}/images/2014-04-20r.jpg">
+  <img src="{{ site.url }}/images/2014-04-20r.jpg">
   </a>
 </figure>

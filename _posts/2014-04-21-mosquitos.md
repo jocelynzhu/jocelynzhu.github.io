@@ -12,16 +12,16 @@ share: true
 ### 爬山时，防蚊手带只保住了胳膊，脑袋被蚊子咬惨了，引得一拨一拨路人的侧目。[哼] ###
 
 <figure class="half">
-  <a href="http://i.imgur.com/qONWzy5.jpg">
-  <img src="http://i.imgur.com/qONWzy5.jpg">
+  <a  href="{{ site.url }}/images/2014-04-21a.jpg">
+  <img src="{{ site.url }}/images/2014-04-21a.jpg">
   </a>
-  <a href="http://i.imgur.com/tamG4Ss.jpg">
-  <img src="http://i.imgur.com/tamG4Ss.jpg">
+  <a  href="{{ site.url }}/images/2014-04-21b.jpg">
+  <img src="{{ site.url }}/images/2014-04-21b.jpg">
   </a>
-  <a href="http://i.imgur.com/Xrc7La4.jpg">
-  <img src="http://i.imgur.com/Xrc7La4.jpg">
+  <a  href="{{ site.url }}/images/2014-04-21c.jpg">
+  <img src="{{ site.url }}/images/2014-04-21c.jpg">
   </a>
-  <a href="http://i.imgur.com/w6O912s.jpg">
-  <img src="http://i.imgur.com/w6O912s.jpg">
+  <a  href="{{ site.url }}/images/2014-04-21d.jpg">
+  <img src="{{ site.url }}/images/2014-04-21d.jpg">
   </a>
 </figure>
