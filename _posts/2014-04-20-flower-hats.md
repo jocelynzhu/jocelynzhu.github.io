@@ -41,3 +41,35 @@ share: true
   <img src="http://i.imgur.com/tKIlyhM.jpg">
   </a>
 </figure>
+
+### 给没读过≪米莉的帽子变变变≫这本书的朋友附上书里的原图，跟树叶花朵制作的米莉的帽子是对应的。[偷笑] ###
+
+<figure class="third">
+  <a href="http://i.imgur.com/Z2dB3Py.jpg">
+  <img src="http://i.imgur.com/Z2dB3Py.jpg">
+  </a>
+  <a href="http://i.imgur.com/J5IkmR6.jpg">
+  <img src="http://i.imgur.com/J5IkmR6.jpg">
+  </a>
+  <a href="http://i.imgur.com/Iz1YcAm.jpg">
+  <img src="http://i.imgur.com/Iz1YcAm.jpg">
+  </a>
+  <a href="http://i.imgur.com/j54eAGM.jpg">
+  <img src="http://i.imgur.com/j54eAGM.jpg">
+  </a>
+  <a href="http://i.imgur.com/xPzUmU4.jpg">
+  <img src="http://i.imgur.com/xPzUmU4.jpg">
+  </a>
+  <a href="http://i.imgur.com/cCz455p.jpg">
+  <img src="http://i.imgur.com/cCz455p.jpg">
+  </a>
+  <a href="http://i.imgur.com/k3JqrDe.jpg">
+  <img src="http://i.imgur.com/k3JqrDe.jpg">
+  </a>
+  <a href="http://i.imgur.com/xdScbsy.jpg">
+  <img src="http://i.imgur.com/xdScbsy.jpg">
+  </a>
+  <a href="http://i.imgur.com/NKfkL2o.jpg">
+  <img src="http://i.imgur.com/NKfkL2o.jpg">
+  </a>
+</figure>
