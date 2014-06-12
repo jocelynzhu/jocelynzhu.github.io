@@ -12,37 +12,31 @@ share: true
 ### 四月里深圳的莲花山到底有多美？只是一些落花与落叶〜许多年后，如果能和儿子共同追忆，心里一定满是幸福吧！也不枉这半日的亲子游山了。[哈哈]#创意树叶花朵画展#@创意亲子游戏 ###
 
 <figure class="third">
-  <a href="http://i.imgur.com/JFgG3BR.jpg">
-  <img src="http://i.imgur.com/JFgG3BR.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18h.jpg">
+  <img src="{{ site.url }}/images/2014-04-18h.jpg">
   </a>
-  <a href="http://i.imgur.com/617TlAZ.jpg">
-  <img src="http://i.imgur.com/617TlAZ.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18i.jpg">
+  <img src="{{ site.url }}/images/2014-04-18i.jpg">
   </a>
-  <a href="http://i.imgur.com/0SXqPrk.jpg">
-  <img src="http://i.imgur.com/0SXqPrk.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18j.jpg">
+  <img src="{{ site.url }}/images/2014-04-18j.jpg">
   </a>
-</figure>
-
-<figure class="third">
-  <a href="http://i.imgur.com/beIbicw.jpg">
-  <img src="http://i.imgur.com/beIbicw.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18k.jpg">
+  <img src="{{ site.url }}/images/2014-04-18k.jpg">
   </a>
-  <a href="http://i.imgur.com/qnbQ5ui.jpg">
-  <img src="http://i.imgur.com/qnbQ5ui.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18l.jpg">
+  <img src="{{ site.url }}/images/2014-04-18l.jpg">
   </a>
-  <a href="http://i.imgur.com/kmJ7NmP.jpg">
-  <img src="http://i.imgur.com/kmJ7NmP.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18m.jpg">
+  <img src="{{ site.url }}/images/2014-04-18m.jpg">
   </a>
-</figure>
-
-<figure class="third">
-  <a href="http://i.imgur.com/21kj1nM.jpg">
-  <img src="http://i.imgur.com/21kj1nM.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18n.jpg">
+  <img src="{{ site.url }}/images/2014-04-18n.jpg">
   </a>
-  <a href="http://i.imgur.com/AnRQ0Zo.jpg">
-  <img src="http://i.imgur.com/AnRQ0Zo.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18o.jpg">
+  <img src="{{ site.url }}/images/2014-04-18o.jpg">
   </a>
-  <a href="http://i.imgur.com/TbWjI2v.jpg">
-  <img src="http://i.imgur.com/TbWjI2v.jpg">
+  <a  href="{{ site.url }}/images/2014-04-18p.jpg">
+  <img src="{{ site.url }}/images/2014-04-18p.jpg">
   </a>
 </figure>
