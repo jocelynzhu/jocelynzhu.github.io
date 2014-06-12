@@ -13,10 +13,10 @@ share: true
 
 
 <figure class="half">
-  <a href="http://i.imgur.com/BiGEX54.jpg">
-  <img src="http://i.imgur.com/BiGEX54.jpg">
+  <a  href="{{ site.url }}/images/2014-04-19b.jpg">
+  <img src="{{ site.url }}/images/2014-04-19b.jpg">
   </a>
-  <a href="http://i.imgur.com/XVh5c16.jpg">
-  <img src="http://i.imgur.com/XVh5c16.jpg">
+  <a  href="{{ site.url }}/images/2014-04-19c.jpg">
+  <img src="{{ site.url }}/images/2014-04-19c.jpg">
   </a>
 </figure>

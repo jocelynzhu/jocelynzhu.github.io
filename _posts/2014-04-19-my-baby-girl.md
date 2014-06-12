@@ -12,7 +12,7 @@ share: true
 ### 开始有小女孩的娇羞了呢。有女儿的感觉真不错。[爱你] ###
 
 <figure>
-  <a href="http://i.imgur.com/qJwhjtu.jpg">
-  <img src="http://i.imgur.com/qJwhjtu.jpg">
+  <a  href="{{ site.url }}/images/2014-04-19a.jpg">
+  <img src="{{ site.url }}/images/2014-04-19a.jpg">
   </a>
 </figure>
