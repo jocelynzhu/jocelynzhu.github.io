@@ -11,4 +11,8 @@ share: true
 
 ### 终于赶上一场大雪[雪]，Gavin的脸埋在小被里不敢露出来了。[哈哈] ###
 
-![](http://i.imgur.com/OLtCOkE.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2014-01-19.jpg">
+  <img src="{{ site.url }}/images/2014-01-19.jpg">
+  </a>
+</figure>

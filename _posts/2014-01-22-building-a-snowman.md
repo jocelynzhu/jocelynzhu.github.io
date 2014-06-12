@@ -11,20 +11,32 @@ share: true
 
 ### Gavin和妈妈一起堆了一个＂雪人小王子＂和一个＂马桶雪人叔叔＂。今年冬天没有遗憾了。[耶] ###
 
-![](http://i.imgur.com/0yT5Lm8.jpg)
-
-![](http://i.imgur.com/m73x7Rz.jpg)
-
-![](http://i.imgur.com/vBzv1VQ.jpg)
-
-![](http://i.imgur.com/EPO90Ej.jpg)
-
-![](http://i.imgur.com/AiRnC5n.jpg)
-
-![](http://i.imgur.com/IC1vJ4w.jpg)
-
-![](http://i.imgur.com/qpGWQvg.jpg)
-
-![](http://i.imgur.com/d4EUmk6.jpg)
-
-![](http://i.imgur.com/hh8CyE7.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2014-01-22a.jpg">
+  <img src="{{ site.url }}/images/2014-01-22a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22b.jpg">
+  <img src="{{ site.url }}/images/2014-01-22b.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22c.jpg">
+  <img src="{{ site.url }}/images/2014-01-22c.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22d.jpg">
+  <img src="{{ site.url }}/images/2014-01-22d.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22e.jpg">
+  <img src="{{ site.url }}/images/2014-01-22e.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22f.jpg">
+  <img src="{{ site.url }}/images/2014-01-22f.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22g.jpg">
+  <img src="{{ site.url }}/images/2014-01-22g.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22h.jpg">
+  <img src="{{ site.url }}/images/2014-01-22h.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22i.jpg">
+  <img src="{{ site.url }}/images/2014-01-22i.jpg">
+  </a>
+</figure>

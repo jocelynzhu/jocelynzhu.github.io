@@ -14,18 +14,32 @@ share: true
 ![](http://i.imgur.com/0beYzsg.jpg)
 
 <figure class="third">
-	<img src="http://i.imgur.com/fqPXb1R.jpg" alt="">
-	<img src="http://i.imgur.com/GUIquPS.jpg" alt="">
-	<img src="http://i.imgur.com/mCiVBjg.jpg" alt="">
+  <a  href="{{ site.url }}/images/2014-01-12a.jpg">
+  <img src="{{ site.url }}/images/2014-01-12a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-12b.jpg">
+  <img src="{{ site.url }}/images/2014-01-12b.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-12c.jpg">
+  <img src="{{ site.url }}/images/2014-01-12c.jpg">
+  </a>
 </figure>
 
 <figure class="half">
-	<img src="http://i.imgur.com/6tmdD8i.jpg" alt="">
-	<img src="http://i.imgur.com/XdfdkKJ.jpg" alt="">
+  <a  href="{{ site.url }}/images/2014-01-12d.jpg">
+  <img src="{{ site.url }}/images/2014-01-12d.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-12e.jpg">
+  <img src="{{ site.url }}/images/2014-01-12e.jpg">
+  </a>
 </figure>
 
 <figure class="half">
-	<img src="http://i.imgur.com/jpCP0IV.jpg" alt="">
-	<img src="http://i.imgur.com/pYpRfce.jpg" alt="">
+  <a  href="{{ site.url }}/images/2014-01-12f.jpg">
+  <img src="{{ site.url }}/images/2014-01-12f.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-12g.jpg">
+  <img src="{{ site.url }}/images/2014-01-12g.jpg">
+  </a>
 </figure>
 

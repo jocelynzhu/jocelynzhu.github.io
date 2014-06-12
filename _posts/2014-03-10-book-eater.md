@@ -13,8 +13,16 @@ share: true
 ### Seven一拿起书啃，Gavin就立即上前制止并念：＂狐狸先生＂＂吃书贼＂＂不能吃书＂！几次下来，妈妈才联系上出处，反应迟钝啊〜[晕] ###
 
 <figure class="half">
-	<img src="http://i.imgur.com/hUugWji.jpg" alt="">
-	<img src="http://i.imgur.com/O8biOVj.jpg" alt="">
-	<img src="http://i.imgur.com/0g4lYAT.jpg" alt="">
-	<img src="http://i.imgur.com/7plhN6D.jpg" alt="">
+  <a  href="{{ site.url }}/images/2014-03-10d.jpg">
+  <img src="{{ site.url }}/images/2014-03-10d.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-10e.jpg">
+  <img src="{{ site.url }}/images/2014-03-10e.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-10f.jpg">
+  <img src="{{ site.url }}/images/2014-03-10f.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-10g.jpg">
+  <img src="{{ site.url }}/images/2014-03-10g.jpg">
+  </a>
 </figure>

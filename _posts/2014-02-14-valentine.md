@@ -13,7 +13,7 @@ share: true
 
 
 <figure>
-  <a href="http://i.imgur.com/iLoJDen.jpg">
-  <img src="http://i.imgur.com/iLoJDen.jpg">
+  <a  href="{{ site.url }}/images/2014-02-14.jpg">
+  <img src="{{ site.url }}/images/2014-02-14.jpg">
   </a>
 </figure>

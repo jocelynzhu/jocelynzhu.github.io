@@ -12,11 +12,11 @@ share: true
 ### 一块钱一根的大白萝卜＂皮＂很美吧？ ###
 
 <figure class="half">
-  <a href="http://i.imgur.com/1uXgVko.jpg">
-  <img src="http://i.imgur.com/1uXgVko.jpg">
+  <a  href="{{ site.url }}/images/2014-04-09e.jpg">
+  <img src="{{ site.url }}/images/2014-04-09e.jpg">
   </a>
-  <a href="http://i.imgur.com/5bzzWet.jpg">
-  <img src="http://i.imgur.com/5bzzWet.jpg">
+  <a  href="{{ site.url }}/images/2014-04-09f.jpg">
+  <img src="{{ site.url }}/images/2014-04-09f.jpg">
   </a>
 </figure>
 

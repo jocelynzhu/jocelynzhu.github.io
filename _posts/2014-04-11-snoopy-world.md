@@ -12,14 +12,11 @@ share: true
 ### 毛毛虫滑梯太好玩了！还有这里的独木舟，坐了一次一次又一次。 ###
 
 <figure>
-  <a href="http://i.imgur.com/qNK2hOw.jpg">
-  <img src="http://i.imgur.com/qNK2hOw.jpg">
+  <a  href="{{ site.url }}/images/2014-04-11a.jpg">
+  <img src="{{ site.url }}/images/2014-04-11a.jpg">
   </a>
-</figure>
-
-<figure>
-  <a href="http://i.imgur.com/ik2sApB.jpg">
-  <img src="http://i.imgur.com/ik2sApB.jpg">
+  <a  href="{{ site.url }}/images/2014-04-11b.jpg">
+  <img src="{{ site.url }}/images/2014-04-11b.jpg">
   </a>
 </figure>
 

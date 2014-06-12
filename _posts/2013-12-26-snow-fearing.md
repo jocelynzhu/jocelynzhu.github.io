@@ -11,11 +11,21 @@ share: true
 
 ### 一开始怕雪怕冷怕滑的小孩慢慢就放开了 ###
 
-![](http://i.imgur.com/WPJOD5Z.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2013-12-26a.jpg">
+  <img src="{{ site.url }}/images/2013-12-26a.jpg">
+  </a>
+</figure>
 
 <figure class="third">
-	<img src="http://i.imgur.com/v80nVZk.jpg" alt="">
-	<img src="http://i.imgur.com/fpLUAfk.jpg" alt="">
-	<img src="http://i.imgur.com/sY68jtO.jpg" alt="">
+  <a  href="{{ site.url }}/images/2013-12-26b.jpg">
+  <img src="{{ site.url }}/images/2013-12-26b.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2013-12-26c.jpg">
+  <img src="{{ site.url }}/images/2013-12-26c.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2013-12-26d.jpg">
+  <img src="{{ site.url }}/images/2013-12-26d.jpg">
+  </a>
 </figure>
 

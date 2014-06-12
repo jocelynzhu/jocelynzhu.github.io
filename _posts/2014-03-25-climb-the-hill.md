@@ -12,12 +12,17 @@ share: true
 ### 周末绕园一周，连拉带扛连背带抱地。 ###
 
 <figure class="half">
-	<img src="http://i.imgur.com/9QTmoep.jpg" alt="">
-	<img src="http://i.imgur.com/UYUlRQ1.jpg" alt="">
-</figure>
-
-<figure class="half">
-	<img src="http://i.imgur.com/CJ7v5zS.jpg" alt="">
-	<img src="http://i.imgur.com/WdAMcXO.jpg" alt="">
+  <a  href="{{ site.url }}/images/2014-03-25a.jpg">
+  <img src="{{ site.url }}/images/2014-03-25a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-25b.jpg">
+  <img src="{{ site.url }}/images/2014-03-25b.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-25c.jpg">
+  <img src="{{ site.url }}/images/2014-03-25c.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-03-25d.jpg">
+  <img src="{{ site.url }}/images/2014-03-25d.jpg">
+  </a>
 </figure>
 

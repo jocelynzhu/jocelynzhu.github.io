@@ -11,6 +11,12 @@ share: true
 
 ### 咬哭小BB被罚站了。 ###
 
-![](http://i.imgur.com/JkAfIFK.jpg)
 
-![](http://i.imgur.com/aNf5aHW.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2014-01-22j.jpg">
+  <img src="{{ site.url }}/images/2014-01-22j.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-22k.jpg">
+  <img src="{{ site.url }}/images/2014-01-22k.jpg">
+  </a>
+</figure>

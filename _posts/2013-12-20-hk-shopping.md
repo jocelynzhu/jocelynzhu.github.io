@@ -12,9 +12,17 @@ share: true
 ### 带着Seven排了整3小时队才排到5盒小熊饼干！[抓狂]看到地铁站的时候可以松口气了前面还有20米，于是保持住队形又等下一批到货用1小时。[晕]最想说代购不容易，赚的是辛苦钱！！！先不说花钱花时间满世界找东西，并且能背东西回本的都是汉子（体力活），就是找到了这么排队谁受得了？ ###
 
 <figure class="half">
-	<img src="http://i.imgur.com/YNdbSii.jpg" alt="">
-	<img src="http://i.imgur.com/nLFuLh8.jpg" alt="">
+  <a  href="{{ site.url }}/images/2013-12-20a.jpg">
+  <img src="{{ site.url }}/images/2013-12-20a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2013-12-20b.jpg">
+  <img src="{{ site.url }}/images/2013-12-20b.jpg">
+  </a>
 </figure>
 
-![](http://i.imgur.com/cV0LUfD.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2013-12-20c.jpg">
+  <img src="{{ site.url }}/images/2013-12-20c.jpg">
+  </a>
+</figure>
 

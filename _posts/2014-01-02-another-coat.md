@@ -12,6 +12,10 @@ share: true
 ### 又来一件小棉袄！ ###
 
 <figure class="half">
-    <img src="http://i.imgur.com/qR5acqo.jpg">
-    <img src="http://i.imgur.com/zeNyB3n.jpg">
+  <a  href="{{ site.url }}/images/2014-01-02a.jpg">
+  <img src="{{ site.url }}/images/2014-01-02a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-02b.jpg">
+  <img src="{{ site.url }}/images/2014-01-02b.jpg">
+  </a>
 </figure>

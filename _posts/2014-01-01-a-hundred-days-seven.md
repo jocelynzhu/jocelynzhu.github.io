@@ -11,4 +11,8 @@ share: true
 
 ### Seven不知不觉就百天了 ###
 
-![](http://i.imgur.com/OFxEPld.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2014-01-01.jpg">
+  <img src="{{ site.url }}/images/2014-01-01.jpg">
+  </a>
+</figure>

@@ -11,12 +11,20 @@ share: true
 
 ### 姥姥刚带的圣虫就被Gavin咬了一口，然后自己又把大家集合起来围个大圆圈。 ###
 
-![](http://i.imgur.com/zka5Pwk.jpg)
-
-![](http://i.imgur.com/cXMEHXZ.jpg)
-
-![](http://i.imgur.com/tyj3LI4.jpg)
-
-![](http://i.imgur.com/12IOEhz.jpg)
-
-![](http://i.imgur.com/pQp4pgQ.jpg)
+<figure>
+  <a  href="{{ site.url }}/images/2014-01-26a.jpg">
+  <img src="{{ site.url }}/images/2014-01-26a.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-26b.jpg">
+  <img src="{{ site.url }}/images/2014-01-26b.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-26c.jpg">
+  <img src="{{ site.url }}/images/2014-01-26c.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-26d.jpg">
+  <img src="{{ site.url }}/images/2014-01-26d.jpg">
+  </a>
+  <a  href="{{ site.url }}/images/2014-01-26e.jpg">
+  <img src="{{ site.url }}/images/2014-01-26e.jpg">
+  </a>
+</figure>
